@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "三菱PLC_XY控制", "三菱PLC_XY控制\三菱PLC_XY控制.csproj", "{DAD97A34-5F5D-4A64-A542-6D430A834254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD97A34-5F5D-4A64-A542-6D430A834254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD97A34-5F5D-4A64-A542-6D430A834254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD97A34-5F5D-4A64-A542-6D430A834254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD97A34-5F5D-4A64-A542-6D430A834254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AA4522F-0E04-4E3A-BD8D-94F75FC6C4AB}
+	EndGlobalSection
+EndGlobal
