@@ -552,6 +552,38 @@ namespace 三菱PLC_XY控制
                     //05 07
                     YAddress = "0705";
                     break;
+                case "Y10":
+                    //05 00
+                    YAddress = "0805";
+                    break;
+                case "Y11":
+                    //05 01
+                    YAddress = "0905";
+                    break;
+                case "Y12":
+                    //05 02
+                    YAddress = "0A05";
+                    break;
+                case "Y13":
+                    //05 03
+                    YAddress = "0B05";
+                    break;
+                case "Y14":
+                    //05 04
+                    YAddress = "0C05";
+                    break;
+                case "Y15":
+                    //05 05
+                    YAddress = "0D05";
+                    break;
+                case "Y16":
+                    //05 06
+                    YAddress = "0E05";
+                    break;
+                case "Y17":
+                    //05 07
+                    YAddress = "0F05";
+                    break;
             }
             byte[] YAddressByte = new byte[4]; 
             ASCIIEncoding charToASCII = new ASCIIEncoding();
